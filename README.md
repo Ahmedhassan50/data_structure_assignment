@@ -3,7 +3,7 @@
 
 
 
-##1- Linked List
+## 1- Linked List
 
 ### Description
 
@@ -31,13 +31,13 @@ The `next` variable points to the next node in the data structure and value stor
 <details>
 <summary><strong>Running Tests</strong></summary>
 
-Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyLinkedListTest.java]()
+Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyLinkedListTest.java](https://github.com/Ahmedhassan50/data_structure_assignment/blob/master/src/com/example/linkedlist/MyLinkedListTest.java)
 which contains all valid and invalid test cases for every function
 
 </details>
 
 
-##2- Tree
+## 2- Tree
 ### Description
 
 Tree is a data structure where the data is organized in a hierarchial structure. There should be one root node (which does not have any parent) and all subsequent nodes are represented as children of the root node and its children. If a node has at least one child, it is called `internal` node and nodes with no children are called `leaf` nodes.
@@ -62,13 +62,13 @@ This basic structure is for a binary tree where each internal tree has at least 
 <details>
 <summary><strong>Running Tests</strong></summary>
 
-Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyBSTTest.java]()
+Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyBSTTest.java](https://github.com/Ahmedhassan50/data_structure_assignment/blob/master/src/com/example/binarytree/MyBSTTest.java)
 which contains all valid and invalid test cases for every function
 
 </details>
 
 
-##3- STACK
+## 3- STACK
 
 Stack is an ADT (abstract data type) that acts like a list of objects but there is a difference.
 
@@ -103,12 +103,12 @@ the function will return `9` and the stack will change to `1, 3, 5`.
 <details>
 <summary><strong>Running Tests</strong></summary>
 
-Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyStackTest.java]()
+Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyStackTest.java](https://github.com/Ahmedhassan50/data_structure_assignment/blob/master/src/com/example/stackandqueue/MyStackTest.java)
 which contains all valid and invalid test cases for every function
 
 </details>
 
-##4- Queue
+## 4- Queue
 
 - It is an ordered list of objects that follows the **FIFO** (First-In-First-Out) principle.
 
@@ -125,7 +125,7 @@ which contains all valid and invalid test cases for every function
 <details>
 <summary><strong>Running Tests</strong></summary>
 
-Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyQueueTest.java]()
+Running and reviewing unit tests is a great way to get familiarized with this class and its methods. You can find [MyQueueTest.java](https://github.com/Ahmedhassan50/data_structure_assignment/blob/master/src/com/example/stackandqueue/MyQueueTest.java)
 which contains all valid and invalid test cases for every function
 
 </details>
